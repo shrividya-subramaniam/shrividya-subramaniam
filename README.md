@@ -6,6 +6,7 @@ I am Shrividya, a Data Analyst adept at data manipulation and analysis, machine 
 **Probability and Statistics**: Confidence intervals, Hypothesis Testing, Time series
 
 **Machine Learning**: Classification, Regression, Clustering, Feature Engineering
+
 **Learning tasks**: Supervised, Unsupervised, Semi-supervised
                                                                                                                                            
 **Open Source Programming Languages**: Python (libraries: numpy, pandas, scikit-learn, matplotlib, seaborn), 
