@@ -1,6 +1,6 @@
 ## 👋 Hi, 
 
-I am Shrividya, a Data Analyst adept at data manipulation and analysis, statistical modelling, predictive analytics, machine learning and data visualisation, determined to evolve as a data scientist through experience. I aim to leverage my diversified set of skills to build a professional career in Data Science and Analytics. 
+I am Shrividya, a Data Analyst adept at data manipulation and analysis, machine learning and data visualisation, determined to evolve as a data scientist through experience. I aim to leverage my diversified set of skills to build a professional career in Data Science and Analytics. 
 
 ## Technical Skills and Tools
 **Probability and Statistics**: Confidence intervals, Hypothesis Testing, Time series
