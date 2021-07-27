@@ -6,16 +6,16 @@ I am Shrividya, a Data Analyst adept at data manipulation and analysis, statisti
 **Probability and Statistics**: Confidence intervals, Hypothesis Testing, Time series
 
 **Machine Learning**: Classification, Regression, Clustering, Feature Engineering
-   **Learning tasks**: Supervised, Unsupervised, Semi-supervised
+**Learning tasks**: Supervised, Unsupervised, Semi-supervised
                                                                                                                                            
 **Open Source Programming Languages**: Python (libraries: numpy, pandas, scikit-learn, matplotlib, seaborn), 
  R (libraries: dplyr, ggplot2, caret, lubridate, lattice, randomForest, data.table, XGBoost, forecast)
 
 **Visualization Tools**: Tableau, Power BI
 
-**Database Language**: SQL                                                                                                                                                                                                                                                
+**Database Query Language**: SQL                                                                                                    
 
 **Statistical Tools**: SAS
 
-## I can be reached at
+## 📫 How to reach me 
 shrividya.gs@gmail.com
