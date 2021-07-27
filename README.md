@@ -22,4 +22,4 @@ I am Shrividya, a Data Analyst adept at data manipulation and analysis, machine 
 [![Linkedin-icon (3)](https://user-images.githubusercontent.com/58010969/127127652-8b1b50cf-c357-4a0a-8b2f-67e78998c867.png)][2]
 
 [1]: shrividya.gs@gmail.com
-[2]: https://www.linkedin.com/in/shrividya-subramaniam-36b76996
+[2]: https://www.linkedin.com/in/shrividya-subramaniam-36b76996/
