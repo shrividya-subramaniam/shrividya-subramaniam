@@ -18,8 +18,8 @@ I am Shrividya, a Data Analyst adept at data manipulation and analysis, machine 
 **Statistical Tools**: SAS
 
 ## 📫 How to reach me 
-[![Gmail](https://user-images.githubusercontent.com/58010969/127121475-e02ce9e9-3b3e-4c79-b63a-3481cc8336aa.png)][1]
-[![LinkedIn](https://user-images.githubusercontent.com/58010969/127121526-62e73662-c010-477a-8b58-64fd6c3aeedb.png)][2]
+[![Gmail icon2](https://user-images.githubusercontent.com/58010969/127124595-c5a59819-83c8-4ace-a4b4-eb480a0b09c2.png)][1]
+[![Linkedin-icon2](https://user-images.githubusercontent.com/58010969/127124640-d9e329ab-0f31-4fb5-82d0-cac397a4f53c.png)][2]
 
 [1]: shrividya.gs@gmail.com
 [2]: https://www.linkedin.com/in/shrividya-subramaniam-36b76996
