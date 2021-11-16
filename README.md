@@ -16,8 +16,6 @@ I am Shrividya, a Data Analyst adept at data analysis, machine learning, statist
 
 **Database Query Language**: SQL                                                                                                    
 
-**Statistical Tools**: Base SAS
-
 ## 📫 How to reach me 
 [![Linkedin-icon (3)](https://user-images.githubusercontent.com/58010969/127127652-8b1b50cf-c357-4a0a-8b2f-67e78998c867.png)][1]
 
