@@ -9,12 +9,14 @@ I am Shrividya, a Data Professional adept at data analysis, machine learning, st
 
 **Learning tasks**: Supervised, Unsupervised
                                                                                                                                            
-**Open Source Programming Languages**: Python (libraries: numpy, pandas, scikit-learn, matplotlib, seaborn), 
+**Programming Languages**: Python (libraries: numpy, pandas, scikit-learn, matplotlib, seaborn), 
  R (libraries: dplyr, ggplot2, caret, lubridate)
 
 **Visualization Tools**: Tableau, Power BI
 
-**Database Query Language**: SQL (PostgreSQL, MySQL)                                                                                                    
+**Database Query Language**: SQL (PostgreSQL, MySQL)     
+
+**Platform**: AWS  
 
 ## 📫 How to reach me 
 [![Linkedin-icon (3)](https://user-images.githubusercontent.com/58010969/127127652-8b1b50cf-c357-4a0a-8b2f-67e78998c867.png)][1]
