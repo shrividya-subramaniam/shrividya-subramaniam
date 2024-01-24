@@ -7,10 +7,10 @@ I am Shrividya, a Data Professional adept at data analysis, machine learning, st
 
 **Machine Learning**: Classification, Regression, Clustering, Feature Engineering
 
-**Learning tasks**: Supervised, Unsupervised, Semi-supervised
+**Learning tasks**: Supervised, Unsupervised
                                                                                                                                            
 **Open Source Programming Languages**: Python (libraries: numpy, pandas, scikit-learn, matplotlib, seaborn), 
- R (libraries: dplyr, ggplot2, caret, lubridate, lattice, randomForest, data.table, XGBoost, forecast)
+ R (libraries: dplyr, ggplot2, caret, lubridate)
 
 **Visualization Tools**: Tableau, Power BI
 
