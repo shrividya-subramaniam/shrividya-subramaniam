@@ -1,6 +1,6 @@
 ## 👋 Hi, 
 
-I am Shrividya, a Data Professional adept at data analysis, machine learning, statistical modeling, predictive analytics, and data visualisation with additional knowledge of Generative AI, determined to evolve as a data scientist through experience. I aim to leverage my diversified set of skills to build a professional career in Data Science and Analytics. 
+I am Shrividya, a Data Professional adept at data analysis, machine learning, statistical modeling, predictive analytics, and data visualisation with additional knowledge of Generative AI, determined to evolve as a data scientist through experience. I aim to leverage my diversified set of skills to build a professional career in Data Science and Generative AI. 
 
 ## Technical Skills and Tools
 **Probability and Statistics**: Descriptive and Inferential Statistics, Confidence intervals, Hypothesis Testing, Time series
