@@ -1,22 +1,28 @@
 ## 👋 Hi, 
 
-I am Shrividya, a Data Professional adept at data analysis, machine learning, statistical modeling, predictive analytics, and data visualisation with additional knowledge of Generative AI. I aim to leverage my diversified set of skills to build a professional career in Data Science and Generative AI. 
+I am Shrividya, Data Scientist and Analyst with experience in pricing analytics and ETL engineering, with hands-on ML modelling and an active specialization in applied Generative AI.
+
+This GitHub is where I build things. You'll find personal projects spanning LLM-integrated forecasting, RAG-based summarization, and agentic A/B experimentation, alongside code from hackathons I've participated in.
+
+My current focus is on the intersection of classical data science and modern AI capability, particularly agentic systems, RAG pipelines, and LLM application development.
+
+Always open to collaborating on fascinating problems.
 
 ## Technical Skills and Tools
-**Probability and Statistics**: Descriptive and Inferential Statistics, Confidence intervals, Hypothesis Testing, Time series
+**Probability and Statistics**: Descriptive and Inferential Statistics, Confidence Intervals, Hypothesis Testing, Bayesian Inference, A/B Testing
 
-**Machine Learning**: Classification, Regression, Clustering, Feature Engineering
+**Machine Learning**: Classification, Regression, Clustering, Ensemble Methods (XGBoost, LightGBM), Feature Engineering, Time Series Forecasting (SARIMA, Prophet, LSTM)
 
-**Deep Learning**: Image Classification, Neural Collaborative Filtering, CNNs, RNNs, Transformers
+**Deep Learning**: Neural Networks (CNNs, RNNs),Transformers
 
-**Generative AI**: Large Language Models (LLMs), Fine-tuning LLMs, Prompt Engineering, LangChain, Retrieval-Augmented Generation (RAG)
+**Generative AI**: Large Language Models (LLMs), Prompt Engineering, LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, Claude API, Gemini API
                                                                                                                                            
-**Programming Languages**: Python (libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Fastai, Hugging Face), 
- R (libraries: dplyr, ggplot2, caret, lubridate)
+**Programming & Engineering**: Python (libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Fastai, Hugging Face), 
+ R (libraries: dplyr, ggplot2, caret, lubridate), SQL, Bash Scripting
 
 **Visualization Tools**: Tableau, Power BI
 
-**Database Query Language**: SQL (PostgreSQL, MySQL)     
+**Database Tools**: PostgreSQL, MySQL  
 
 **Platform**: AWS  
 
