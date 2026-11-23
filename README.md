@@ -2,27 +2,26 @@
 
 I am Shrividya, Data Scientist and Analyst with experience in pricing analytics and ETL engineering, with hands-on ML modelling and an active specialization in applied Generative AI.
 
-This GitHub is where I build things. You'll find personal projects spanning LLM-integrated forecasting, RAG-based summarization, and agentic A/B experimentation, alongside code from hackathons I've participated in.
+This GitHub is where I build things. You'll find personal projects spanning shelf-level sales forecasting with LLM-generated restock alerts, RAG-based summarization of research papers for different readers, agentic A/B test analysis with a human-approval gate, and an agentic causal-inference engine whose estimates are checked against a randomised experiment, alongside code from hackathons I've participated in.
 
-My current focus is on the intersection of classical data science and modern AI capability, particularly agentic systems, RAG pipelines, and LLM application development.
+My current focus is where classical data science meets modern AI: forecasting, experimentation and causal inference combined with agentic systems, RAG pipelines and LLM applications, with code making the statistical decisions and the LLM explaining them.
 
 Always open to collaborating on fascinating problems.
 
 ## Technical Skills and Tools
-**Probability and Statistics**: Descriptive and Inferential Statistics, Confidence Intervals, Hypothesis Testing, Bayesian Inference, A/B Testing
+**Probability and Statistics**: Descriptive and Inferential Statistics, Confidence Intervals, Hypothesis Testing, A/B Testing, Experimental Design, Multiple Testing Correction, Bayesian Inference, Causal Inference (IPW, AIPW, Double ML, Causal Forests, DoWhy, EconML)
 
 **Machine Learning**: Classification, Regression, Clustering, Ensemble Methods (XGBoost, LightGBM), Feature Engineering, Time Series Forecasting (SARIMA, Prophet, LSTM)
 
 **Deep Learning**: Neural Networks (CNNs, RNNs),Transformers
 
-**Generative AI**: Large Language Models (LLMs), Prompt Engineering, LangChain, Retrieval-Augmented Generation (RAG), Agentic AI, Claude API, Gemini API
+**Generative AI**: Large Language Models (LLMs), Prompt Engineering, Agentic AI and Multi-Agent Systems (LangGraph, Google ADK), Human-in-the-Loop Workflows, LangChain, Retrieval-Augmented Generation (RAG), Claude API, Gemini API
                                                                                                                                            
-**Programming & Engineering**: Python (libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, PyTorch, Fastai, Hugging Face), 
- R (libraries: dplyr, ggplot2, caret, lubridate), SQL, Bash Scripting
+**Programming & Engineering**: Python (NumPy, Pandas, SciPy, statsmodels, Scikit-Learn, PyTorch, Fastai, Hugging Face, Pydantic, pytest, Django REST), SQL, Bash scripting
 
-**Visualization Tools**: Tableau, Power BI
+**Visualization Tools**: Tableau, Power BI, Matplotlib, Seaborn
 
-**Database Tools**: PostgreSQL, MySQL  
+**Database Tools**: PostgreSQL, MySQL, SQLite, DuckDB 
 
 **Platform**: AWS  
 
